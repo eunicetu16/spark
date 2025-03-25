@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-This project focuses on leveraging **Apache Spark** and **AWS EMR Serverless** to process and analyze large datasets efficiently. The goal is to build a **serverless Spark batch job** that executes data transformations on AWS, generating meaningful insights from the dataset.
+This project focuses on leveraging **Apache Spark** and **AWS EMR Serverless** to process and analyze large datasets efficiently. The goal is to build a **serverless Spark batch job** that executes data transformations on AWS, generating meaningful insights from the dataset. The project utilizes the NYPD Complaint Data Historic dataset, selected for its comprehensive structure and extensive range of variables that provide detailed insights into reported criminal incidents across New York City. This dataset encompasses information on complaint categories, offense classifications, geospatial coordinates, timestamps, and demographic attributes of both victims and suspects. Its depth and granularity offer a strong foundation for rigorous analysis, enabling the exploration of patterns, trends, and correlations across spatial, temporal, and categorical dimensions. The richness of the data supports a multifaceted approach to examining crime dynamics within the city.
 
 ## Project Description
 
